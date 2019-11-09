@@ -1,2 +1,2 @@
 # termux
-Python based termux api wrappee
+Python based termux api wrapper
