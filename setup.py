@@ -26,7 +26,7 @@ setup(
     install_requires=None,
     entry_points={
         "console_scripts": [
-            "termux=api:main",
+            "termux=termux:api:main",
         ]
     },
 )
